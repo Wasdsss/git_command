@@ -4,8 +4,6 @@
 
 2.Создать на ресурсе github.com репозиторий для выполнения практической работы.
 
-https://github.com/Wasdsss?tab=repositories
-
  ![image](https://github.com/Wasdsss/git_command/assets/153349101/39a0be55-72d5-4181-907a-a143f19c2042)
 
 3.Создать папку для работы с Git.
