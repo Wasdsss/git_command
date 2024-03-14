@@ -1,6 +1,7 @@
 # git_command
 
 1.Создать учетную запись на ресурсе github.com
+https://github.com/Wasdsss/git_command.git
 
 2.Создать на ресурсе github.com репозиторий для выполнения практической работы.
 
